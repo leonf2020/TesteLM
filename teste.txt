@@ -1,1 +1,2 @@
-exemplo teste
+exemplo teste 
+Meu primeiro exercício com git dektop 
